@@ -14,7 +14,12 @@
 
 ## Overview
 
-This repository contains a custom select menu built with HTML, CSS, and JavaScript. The custom select menu enhances the standard HTML select element by providing a visually appealing and interactive interface.
+This repository contains a custom select menu built with HTML, CSS, and JavaScript. The custom select menu enhances the standard HTML select element by providing a visually appealing and interactive interface [TRY NOW!](https://qyuzet.github.io/js-custom-select-menu/).
+
+
+![image](https://github.com/user-attachments/assets/3356ae60-0f9d-4ee2-88e7-5945d66af043)
+
+
 
 ## Features
 
