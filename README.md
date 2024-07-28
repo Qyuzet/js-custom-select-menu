@@ -1,6 +1,6 @@
 # JS Custom Select Menu
 
-![Custom Select Menu](https://img.shields.io/badge/Custom%20Select%20Menu-JavaScript-blue)
+![Custom Select Menu](https://img.shields.io/badge/Custom%20Select%20Menu-JavaScript-blue).
 
 ## Table of Contents
 - [Overview](#overview)
